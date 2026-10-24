@@ -5,6 +5,8 @@ and everything that can be round is round (buttons, tabs, inputs, menus, tooltip
 Uses a handwriting-style font that stays readable.
 
 **Tested on Krita 5.2.13** (Windows). Other 5.x versions should mostly work but are untested.
+![preview](screenshots~/preview.png)
+![start page](screenshots~/start_page.png)
 
 ## Install
 
